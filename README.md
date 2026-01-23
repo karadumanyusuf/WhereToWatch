@@ -1,14 +1,23 @@
 # 🎬 Where to Watch
 
 Kullanıcıların film ve dizilerin hangi yayın platformlarında (Netflix, Disney+, Apple TV, vb.) olduğunu bulmalarını sağlayan modern bir rehber uygulaması. **TMDB API** entegrasyonu ile anlık ve gerçek veriler sunar.
+**Kullanım Talimatları Görsellerden sonradır.**
 
 ### Ana Sayfa
 
-![Ana Sayfa/Dark Mode](images/AnaSayfa.png)
+![Ana Sayfa](images/latte.png)
 
-### Giriş Ekranı
+## V2
 
-![Alt Ekran/Dark Mode](images/LastPage.png)
+![Ana Sayfa-Dark Mode](images/AnaSayfa.png)
+
+## Arama Çubuğu
+
+![Arama Çubuğu](images/SearchBar.png)
+
+### Alt Ekran
+
+![Alt Ekran-Dark Mode](images/LastPage.png)
 
 ## ✨ Öne Çıkan Özellikler
 
@@ -33,8 +42,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1.  **Projeyi Klonlayın:**
 
     ```bash
-    git clone [https://github.com/kullanici-adin/where-to-watch.git](https://github.com/kullanici-adin/where-to-watch.git)
-    cd where-to-watch
+    git clone [https://github.com/karadumanyusuf/WhereToWatch.git](https://github.com/karadumanyusuf/WhereToWatch.git)
+    cd wheretowatch
     ```
 
 2.  **Bağımlılıkları Yükleyin:**
