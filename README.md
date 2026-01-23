@@ -4,11 +4,11 @@ Kullanıcıların film ve dizilerin hangi yayın platformlarında (Netflix, Disn
 
 ### Ana Sayfa
 
-![Ana Sayfa](images/AnaSayfa.png)
+![Ana Sayfa/Dark Mode](images/AnaSayfa.png)
 
 ### Giriş Ekranı
 
-![Giriş](images/LastPage.png)
+![Alt Ekran/Dark Mode](images/LastPage.png)
 
 ## ✨ Öne Çıkan Özellikler
 
