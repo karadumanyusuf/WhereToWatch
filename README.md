@@ -2,7 +2,13 @@
 
 Kullanıcıların film ve dizilerin hangi yayın platformlarında (Netflix, Disney+, Apple TV, vb.) olduğunu bulmalarını sağlayan modern bir rehber uygulaması. **TMDB API** entegrasyonu ile anlık ve gerçek veriler sunar.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/800x450?text=Where+To+Watch+Preview)
+### Ana Sayfa
+
+![Ana Sayfa](images/AnaSayfa.png)
+
+### Giriş Ekranı
+
+![Giriş](images/LastPage.png)
 
 ## ✨ Öne Çıkan Özellikler
 
